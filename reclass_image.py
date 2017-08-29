@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+## Written by Andrew Cutts
+
 from osgeo import gdal
 import numpy
 ### open the raster
