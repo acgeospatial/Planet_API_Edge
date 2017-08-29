@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+## Written by Andrew Cutts
+
 from planet import api
 import os
 import cv2
