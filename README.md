@@ -6,3 +6,4 @@ Two Python 2.7 files here, firstly download using your Planet API key it will ru
 More information about how I did the edge detect is available here
 https://www.linkedin.com/pulse/edge-detecting-planet-api-andrew-cutts
 
+Connect/contact [@map_andrew](https://www.twitter.com/map_andrew)
